@@ -1,6 +1,3 @@
-# fastapi_project_structure
-FASTAPI Project Folder Structure
-
 # FastAPI Project Folder structure
 * **app/main.py:** The entry point of the FastAPI application, where the FastAPI instance is initialized and routers are included.
 * **app/api/:** Contains the API endpoints, often organized by version (e.g., v1/) and then by resource (e.g., users.py, items.py within endpoints/).
